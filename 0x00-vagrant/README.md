@@ -1,1 +1,1 @@
-Linux
+__strong__
